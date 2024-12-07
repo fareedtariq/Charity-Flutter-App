@@ -32,7 +32,7 @@
   <div class="screenshot-section">
     <div class="screenshot">
       <h3>Home Screen</h3>
-      <img src="assets/screenshots/home_screen.jpg" alt="Home Screen">
+      <img src="screenshots/WhatsApp Image 2024-12-07 at 18.20.35_75737965" alt="Home Screen">
     </div>
     <div class="screenshot">
       <h3>Campaign Details</h3>
