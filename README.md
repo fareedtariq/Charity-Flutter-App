@@ -3,14 +3,15 @@
   <h1>Charity App</h1>
   <p>This is a Flutter-based Charity App designed to connect individuals and organizations for charitable purposes. The app provides features for managing donations, finding volunteer opportunities, and creating impactful campaigns while ensuring a user-friendly experience.</p>
 
-  <h2>Features</h2>
-  <ul>
-    <li>Search and contribute to active charitable campaigns.</li>
-    <li>Track your contributions and view campaign updates.</li>
-    <li>Create and manage fundraising campaigns with multimedia support.</li>
-    <li>Sign up for volunteering opportunities in your area.</li>
-    <li>Interactive and visually appealing user interface with animations.</li>
-  </ul>
+  <ul class="features">
+        <li><strong>Donation Management:</strong> Browse and contribute to various campaigns with ease.</li>
+        <li><strong>Volunteer Opportunities:</strong> Find and sign up for events in your area.</li>
+        <li><strong>Campaign Creation:</strong> Create and manage fundraising campaigns with multimedia support.</li>
+        <li><strong>Impact Tracking:</strong> See how your contributions are utilized and track campaign progress.</li>
+        <li><strong>Personal Dashboard:</strong> Monitor your donations and volunteering activities.</li>
+        <li><strong>Community Engagement:</strong> Participate in discussions and inspire others.</li>
+        <li><strong>Accessibility:</strong> Multilingual support and an inclusive design for all users.</li>
+    </ul>
 
   <h2>Setup Instructions</h2>
   <p>To run this app locally, follow these steps:</p>
@@ -36,6 +37,22 @@
     <div class="screenshot">
       <h3>Campaign Details</h3>
       <img src="assets/screenshots/campaign_details.jpg" alt="Campaign Details">
+    </div>
+    <div class="screenshot">
+      <h3>Donation Summary</h3>
+      <img src="assets/screenshots/donation_summary.jpg" alt="Donation Summary">
+    </div>
+    <div class="screenshot">
+      <h3>Volunteer Opportunities</h3>
+      <img src="assets/screenshots/volunteer_opportunities.jpg" alt="Volunteer Opportunities">
+    </div>
+    <div class="screenshot">
+      <h3>Impact Tracking</h3>
+      <img src="assets/screenshots/impact_tracking.jpg" alt="Impact Tracking">
+    </div>
+    <div class="screenshot">
+      <h3>Settings</h3>
+      <img src="assets/screenshots/settings.jpg" alt="Settings">
     </div>
   </div>
 
